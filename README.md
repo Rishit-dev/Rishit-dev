@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Full-stack web applications using React, Node.js, Express, MongoDB, with AI-driven features and real-world use cases.<br>Open-source projects, hackathons, and scalable web/AI products focused on real user impact.<br>System design, performance optimization, and industry-level backend best practices.<br><br><br>Advanced backend development, REST API design, authentication, cloud deployment, and ML integration in web apps.<br>Full-stack development, MERN stack, AI-integrated applications, internships, and project architecture.<br><br><br>I enjoy turning problem statements into production-ready applications and continuously improving my code quality.
+<br>Full-stack web applications using React, Node.js, Express, MongoDB, with AI-driven features and real-world use cases.<br>Open-source projects, hackathons, and scalable web/AI products focused on real user impact.<br>System design, performance optimization, and industry-level backend best practices.<br>Advanced backend development, REST API design, authentication, cloud deployment, and ML integration in web apps.<br>Full-stack development, MERN stack, AI-integrated applications, internships, and project architecture.<br>I enjoy turning problem statements into production-ready applications and continuously improving my code quality.
 
 
 ## 🌐 Socials:
